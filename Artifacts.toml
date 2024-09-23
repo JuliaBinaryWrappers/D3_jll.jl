@@ -1,0 +1,6 @@
+[D3]
+git-tree-sha1 = "5fe773a70c7c75bc4ec67bf248381834b5b8c864"
+
+    [[D3.download]]
+    sha256 = "3fb43f411df48f46125c7c60a564746510502c5cc3e424183c7148c2f42ced4d"
+    url = "https://github.com/JuliaBinaryWrappers/D3_jll.jl/releases/download/D3-v7.9.0+0/D3.v7.9.0.any.tar.gz"
